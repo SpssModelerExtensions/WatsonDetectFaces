@@ -26,7 +26,7 @@ WatsonDetectFaces node requires a connected source node. In this example, we are
   <img src="img/ExampleStream.png"/ width=650px>
 </p>
 
-Photos used in this example (on public domain from [commons.wikimedia.org](https://www.commons.wikimedia.org/))
+Photos used in this example (on public domain from [commons.wikimedia.org](https://commons.wikimedia.org/))
 <p align="center">
   <img src="img/Amrita_Pritam_(1919_–_2005)_,_in_1948.jpg"/ width=180px>
   <img src="img/BarackObamaportrait.png"/ width=220px>
