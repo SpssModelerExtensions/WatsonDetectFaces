@@ -28,9 +28,9 @@ WatsonDetectFaces node requires a connected source node. In this example, we are
 
 Images used in this example (from wikimedia.org)
 <p align="center">
-  <img src="img/Amrita_Pritam_(1919_–_2005)_,_in_1948.jpg"/ width=150px>
-  <img src="img/BarackObamaportrait.png"/ width=250px>
-  <img src="img/George_Bush_signs_the_Federal_Funding_Accountability_and_Transparency_Act_of_2006.jpg"/ width=400px>
+  <img src="img/Amrita_Pritam_(1919_–_2005)_,_in_1948.jpg"/ width=180px>
+  <img src="img/BarackObamaportrait.png"/ width=220px>
+  <img src="img/George_Bush_signs_the_Federal_Funding_Accountability_and_Transparency_Act_of_2006.jpg"/ width=360px>
 </p>
 
 In the node window you must provide the **api key** that you received earlier and a **name of column** in which SPSS Modeler can find photo URLs.
