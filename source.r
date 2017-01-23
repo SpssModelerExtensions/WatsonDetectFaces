@@ -1,4 +1,5 @@
-# Author: Mateusz Mika	- IBM 2016
+# WatsonFacesDetection - v 1.0.0
+# Author: Mateusz Mika - IBM 2016
 
 packages <- function(x) {
 	x <- as.character(match.call()[[2]])
