@@ -1,6 +1,6 @@
 ### Detect faces with Watson Visual Recognition
 <p align="center">
-  <img src="img/wdf-10.png"/ width=300px>
+  <img src="default.png"/ width=300px>
 </p>
 This SPSS Modeler Node allows you to gather information about people on input photos. Watson Visual Recognition will try to detect where are any faces on photo, age and gender of person whose face it is, and sometime his/her identity.
 
