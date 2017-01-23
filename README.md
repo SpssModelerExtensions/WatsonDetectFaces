@@ -21,7 +21,7 @@ _To run this SPSS Node, you need a Visual Recognition api key. To get one, you c
 
 ### Example stream
 
-WatsonDetectFaces node requires a connected source node. In this example, we are using "Excel" source node with one column - "photoURL".
+WatsonFacesDetection node requires a connected source node. In this example, we are using "Excel" source node with one column - "photoURL".
 <p align="center">
   <img src="img/ExampleStream.png"/ width=650px>
 </p>
